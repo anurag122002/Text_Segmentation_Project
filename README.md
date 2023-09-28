@@ -1,1 +1,1 @@
-# Text_Segmentation_Project
+# Text_Summarization_Project
